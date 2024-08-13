@@ -32,7 +32,7 @@ NLP for Understanding Social Phenomena
   2. Philipp Grandeit, Carolyn Haberkern, Maximiliane Lang, Jens Albrecht, and Robert Lehmann. 2020. "Using BERT for Qualitative Content Analysis in Psychosocial Online Counseling." In *Proceedings of the Fourth Workshop on Natural Language Processing and Computational Social Science*, pages 11–23, Online. Association for Computational Linguistics. [链接](https://aclanthology.org/2020.nlpcss-1.2)
      - 本文介绍了如何利用BERT模型进行心理社会在线咨询中的定性内容分析，展示了NLP在处理复杂文本数据中的潜力。
 
-   3. Diyi Yang, Dirk Hovy, David Jurgens, Barbara Plank. 2024. "The Call for Socially Aware Language Technologies." [arXiv](https://arxiv.org/abs/2405.02411)
+  3. Diyi Yang, Dirk Hovy, David Jurgens, Barbara Plank. 2024. "The Call for Socially Aware Language Technologies." [arXiv](https://arxiv.org/abs/2405.02411)
      - 本文探讨了开发和应用具有社会意识的语言技术的必要性，强调了NLP在处理社会现象时考虑社会背景和伦理的重要性。
 
 
