@@ -1,6 +1,7 @@
 # NLP-for-Qualitative-Analysis
 
 # NLP for Qualitative Analysis - Paper Reading
+NLP for Understanding Social Phenomena
 
 ## 目录
 1. [引言](#引言)
